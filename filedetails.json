@@ -1,8 +1,6 @@
 {
   "ovpn_file":[
     {"id":0,"file":"
-setenv FORWARD_COMPATIBLE 1
-client
 server-poll-timeout 4
 nobind
 remote 18.234.190.189 1194 udp
